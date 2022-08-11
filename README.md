@@ -12,11 +12,11 @@ a prefabs library for Crocotile3D
 <p>We now have <strong>collision meshes</strong> that match the base meshes (i.e. you can export "object" and "object_col" to your Godot project and have an automatic collision shape for your model with only the faces the mesh needs).<br></p>
 <p><em></em><em>If you don't know how to use prefabs or how to change the textures, follow this tutorial:</em><br><em></em><br></p>
 <p>ENGLISH</p>
-<div class="video-container"><a href="https://www.youtube.com/watch?v=MkglCYeM8dc"><img src="https://img.youtube.com/vi/MkglCYeM8dc/maxresdefault.jpg"></a></div>
+<div class="video-container"><a href="https://www.youtube.com/watch?v=MkglCYeM8dc"><img src="https://img.youtube.com/vi/MkglCYeM8dc/0.jpg" target="_blank"></a></div>
 
 <p><em><br></em>PORTUGUÊS</p>
 <p></p>
-<div class="video-container"><a href="https://www.youtube.com/watch?v=CFtqi5-RNxs"><img src="https://img.youtube.com/vi/CFtqi5-RNxs/maxresdefault.jpg"></a>
+<div class="video-container"><a href="https://www.youtube.com/watch?v=CFtqi5-RNxs"><img src="https://img.youtube.com/vi/CFtqi5-RNxs/0.jpg" target="_blank"></a>
 <p></p>
 <p></p>
 <p><em><em></em><em><em><em><em>If you have any suggestion or question you can contact me on the official <a href="https://discord.gg/bfAmdGX7tH" target="_blank">Crocotile3D Discord server</a>.</em></em></em></em><br><em><em><em><br></em></em></em></em></p>
