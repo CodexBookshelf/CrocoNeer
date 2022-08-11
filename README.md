@@ -1,5 +1,4 @@
-<h1>CrocoNeer</h1>
-<p></p>
+<img src="https://github.com/CodexBookshelf/CrocoNeer/blob/main/newBanner_%23rect807.png?raw=true">
 <h2>by Codex Bookshelf</h2>
 <a href="#about"><p>About</p></a>
 <a href="#tutorials"><p>Tutorials</p></a>
@@ -10,7 +9,9 @@
 <p><em>
     </em></p>
 <p>There's a total of 54 <em>"architectonic"</em> <strong>prefabs</strong> (more to be added in the future)&nbsp; to be done in 5 resolutions of pixels:&nbsp; 8x8 (COMPLETED), 16x16 (in process), 32x32 (in process), 64x64, 128x128.<br></p>
-<p>We now have <strong>collision shapes</strong> that match the base meshes (i.e. you can export "object" and "object_col" to your Godot project and have an automatic collision shape for your model with only the faces the mesh needs).<br></p></div>
+<p>We now have <strong>collision shapes</strong> that match the base meshes (i.e. you can export "object" and "object_col" to your Godot project and have an automatic collision shape for your model with only the faces the mesh needs).<br></p>
+    <p>This project can also be found on <a href="https://codexbookshelf.itch.io/croconeer">itchio</a> (better for users that don't know how to use GitHub)</p>
+</div>
 <div id="tutorials"><p>If you don't know how to use prefabs or how to change the textures, follow this tutorial:<br><br></p>
 <p>ENGLISH</p>
 <div class="video-container"><a href="https://www.youtube.com/watch?v=MkglCYeM8dc"><img src="https://img.youtube.com/vi/MkglCYeM8dc/0.jpg" target="_blank"></a></div>
